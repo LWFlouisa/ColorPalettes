@@ -167,3 +167,26 @@ For use in digital drawing with shades of black.
 #e62020
 
 # Shades Of Green
+
+## Limescale
+#05472a
+#094e2a
+#0d562b
+#115e2b
+#15652c
+#196c2c
+#1d742d
+#217c2d
+#25832e
+#298a2e
+#2d922e
+#319a2f
+#35a12f
+#39a830
+#3db030
+#41b831
+#45bf31
+#49c632
+#4dce32
+#51d633
+#55dd33
