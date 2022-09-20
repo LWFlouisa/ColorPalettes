@@ -1,0 +1,2 @@
+# ColorPalettes
+Array of color.
