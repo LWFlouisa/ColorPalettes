@@ -73,4 +73,28 @@ For use in digital drawing with shades of black.
 #1b1b1b
 
 # Shades Of Red
+
+## Madder And Brink
+#a50021
+#a90526
+#ae0a2a
+#b20e2f
+#b61334
+#ba1838
+#bf1d3d
+#c32242
+#c72647
+#cc2b4b
+#d03050
+#d43555
+#d93a59
+#dd3e5e
+#e14363
+#e64868
+#ea4d6c
+#ee5271
+#f25676
+#f75b7a
+#fb607f
+
 # Shades Of Green
