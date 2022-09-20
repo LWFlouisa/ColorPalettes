@@ -143,4 +143,27 @@ For use in digital drawing with shades of black.
 #d72a41
 #da2c43
 
+## Blood And Lust
+#660000
+#6c0202
+#730303
+#790505
+#800606
+#860808
+#8c0a0a
+#930b0b
+#990d0d
+#a00e0e
+#a61010
+#ac1212
+#b31313
+#b91515
+#c01616
+#c61818
+#cc1a1a
+#d31b1b
+#d91d1d
+#e01e1e
+#e62020
+
 # Shades Of Green
