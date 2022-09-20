@@ -97,4 +97,27 @@ For use in digital drawing with shades of black.
 #f75b7a
 #fb607f
 
+## Crimson And Salmon
+#dc143c
+#de1d43
+#e0254a
+#e12e51
+#e33659
+#e53f60
+#e64867
+#e8506e
+#ea5975
+#ec617c
+#ee6a84
+#ef738b
+#f17b92
+#f38499
+#f48ca0
+#f695a7
+#f89eae
+#faa6b6
+#fcafbd
+#fdb7c4
+#ffc0cb
+
 # Shades Of Green
