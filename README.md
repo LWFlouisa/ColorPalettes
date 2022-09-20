@@ -1,7 +1,7 @@
 # ColorPalettes
 For use in digital drawing with shades of black.
 
-# Cool Black And Ebony
+## Cool Black And Ebony
 #002e63
 #043062
 #083361
@@ -24,7 +24,7 @@ For use in digital drawing with shades of black.
 #515b51
 #555d50
 
-# Onyx And Outer Space
+## Onyx And Outer Space
 #353839
 #353839
 #36393a
@@ -48,7 +48,7 @@ For use in digital drawing with shades of black.
 #40494b
 #414a4c
 
-# Jet Black And Eerie
+## Jet Black And Eerie
 #0E0E10
 #0e0e10
 #0f0f11
@@ -71,3 +71,6 @@ For use in digital drawing with shades of black.
 #1a1a1a
 #1a1a1a
 #1b1b1b
+
+# Shades Of Red
+# Shades Of Green
