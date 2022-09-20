@@ -120,4 +120,27 @@ For use in digital drawing with shades of black.
 #fdb7c4
 #ffc0cb
 
+## Rusty And Carmine
+#960018
+#99021a
+#9d041c
+#a0071e
+#a40921
+#a70b23
+#aa0d25
+#ae0f27
+#b11229
+#b5142b
+#b8162e
+#bb1830
+#bf1a32
+#c21d34
+#c61f36
+#c92138
+#cc233a
+#d0253d
+#d3283f
+#d72a41
+#da2c43
+
 # Shades Of Green
