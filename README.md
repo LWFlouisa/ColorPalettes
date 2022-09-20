@@ -1,7 +1,7 @@
 # ColorPalettes
-Array of color.
+For use in digital drawing with shades of black.
 
-# Cool Grey And Ebony
+# Cool Black And Ebony
 #002e63
 #043062
 #083361
@@ -47,3 +47,27 @@ Array of color.
 #40484a
 #40494b
 #414a4c
+
+# Jet Black And Eerie
+#0E0E10
+#0e0e10
+#0f0f11
+#0f0f11
+#101012
+#111112
+#111113
+#121213
+#131314
+#131314
+#141415
+#141416
+#151516
+#161617
+#161617
+#171718
+#181818
+#181819
+#191919
+#1a1a1a
+#1a1a1a
+#1b1b1b
